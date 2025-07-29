@@ -101,6 +101,8 @@ a:hover {
     background-color: #2a2a4a; /* Более светлый фон для контента */
     border-radius: 10px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.7);
+    overflow-y: auto; /* Added for vertical scrolling on smaller screens */
+    padding-bottom: 20px; /* Added for better spacing at the bottom of content */
 }
 
 section {
