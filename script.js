@@ -14,8 +14,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const faders = document.querySelectorAll('.fade-in');
 
     const appearOptions = {
-        threshold: 0.2, // Блок появляется, когда 20% его видно
-        rootMargin: "0px 0px -50px 0px" // Отступ для более раннего появления
+        threshold: 0.1, // Блок появляется, когда 10% его видно (было 20%)
+        rootMargin: "0px 0px 100px 0px" // Отступ снизу увеличен до 100px, чтобы блоки появлялись раньше
     };
 
     const appearOnScroll = new IntersectionObserver(function(entries, appearOnScroll) {
@@ -34,7 +34,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // Дополнительный эффект при наведении на "Бам и баааам"
-    // Стили для этого уже в CSS через :hover, но можно добавить JS для более сложных эффектов
     const bamBaamPhrases = document.querySelectorAll('strong'); // Выбираем все strong элементы, т.к. "бам и баааам" и "довольно важный аспект" выделены strong
 
     bamBaamPhrases.forEach(phrase => {
