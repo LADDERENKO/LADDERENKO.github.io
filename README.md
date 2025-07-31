@@ -2,10 +2,6 @@
 
 ![Dodo Pizza Logo](dodo_pizza_logo.png)
 
-[![GitHub license](https://img.shields.io/github/license/LADDERENKO/mad-tactics?style=for-the-badge)](https://github.com/LADDERENKO/mad-tactics/blob/main/LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/LADDERENKO/mad-tactics?style=for-the-badge)](https://github.com/LADDERENKO/mad-tactics/issues)
-[![GitHub stars](https://img.shields.io/github/stars/LADDERENKO/mad-tactics?style=for-the-badge)](https://github.com/LADDERENKO/mad-tactics/stargazers)
-
 **🚀 Добро пожаловать в единственную и неповторимую сокровищницу киберспортивного безумия!**
 
 Это не просто сайт — это манифест! Манифест против скучных тактик, занудных разборов и здравого смысла. Здесь собраны бесценные труды **Профессора Ладдеренко**, Доктора Киберспортивных Наук, которые научат вас доминировать, ломать психику врагам и получать 100% удовольствия от игры.
